@@ -3,7 +3,7 @@ Teaching repository
 
 # EFFORTLESS MASS SPECTROSCOPY FOR ELECTROCHEMISTS
 
-Would you prefer to concentrate on the science rather than the measurement technology? hehe
+Would you prefer to concentrate on the science rather than the measurement technology?
 
 The Spectro Inlets EC-MS is the first and only turnkey solution for mass spectrometry analysis of electrochemical reactions.
 
